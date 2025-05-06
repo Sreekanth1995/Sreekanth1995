@@ -1,4 +1,4 @@
-[![👋 Hi there! I'm Sreekanth Mekala | Senior iOS Developer](YOUR_INTRO_GIF_URL_HERE)](https://www.linkedin.com/in/sreekanth-mekala-367822130/)
+[![👋 Hi there! I'm Sreekanth Mekala | Senior iOS Developer](background.gif)](https://www.linkedin.com/in/sreekanth-mekala-367822130/)
 
 ## 👨‍💻 <ins>About Me</ins>
 - 📱 Senior iOS Developer with bold ideas.
