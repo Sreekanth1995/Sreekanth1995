@@ -2,7 +2,7 @@
 
 ## 👨‍💻 <ins>About Me</ins>
 - 📱 Senior iOS Developer with bold ideas.
-- 📍 Based in Hyderabad, building impactful iOS solutions at WSAudiology.
+- 📍 Based in Hyderabad, building impactful iOS solutions at JPMorgan & Chase.
 - 🚀 Driven by a passion for crafting high-quality, user-centric iOS applications and continuously learning in the evolving mobile landscape.
 
 ## ⬆️ <ins>What I'm Currently Focused On</ins>
