@@ -12,7 +12,6 @@
 - 🤝 Eager to connect and collaborate on innovative iOS projects, both within professional settings and the broader open-source community, to learn and contribute to impactful solutions.
 
 ## 🛠️ <ins>Tech Stack</ins>
-- **Languages:** Swift, Objective-C (legacy)
 - **UI Frameworks:** SwiftUI, UIKit
 - **Core Frameworks:** Foundation, Vision, CoreData
 - **Architectures:** MVVM, MVC
